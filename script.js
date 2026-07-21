@@ -1,0 +1,1 @@
+let a=['1.jpg','2.jpg','3.jpg'],i=0;function s(){img.src=a[i]}function n(){i=(i+1)%3;s()}function p(){i=(i+2)%3;s()}
