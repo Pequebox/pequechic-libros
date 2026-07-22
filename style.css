@@ -1,1 +1,12 @@
-body{font-family:Arial;text-align:center;background:#fff7fb;margin:30px}
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f7f7f7;
+    margin: 30px;
+}
+
+.portada{
+    width: 250px;
+    max-width: 90%;
+    border-radius: 12px;
+}
